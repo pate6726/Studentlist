@@ -24,7 +24,7 @@ public class StudList {
         
         
         System.out.println(slist[0].getsId()+ " "+ slist[0].getsName());
-       Sytsem.out.println("hello world");
+        System.out.println("hello world");
         
        for (int i=0;i<slist.length;i++)
        {
