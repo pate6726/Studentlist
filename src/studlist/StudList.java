@@ -22,7 +22,9 @@ public class StudList {
         slist[3]=new Student("Megha2","10");
         slist[4]=new Student("Megha3","10");
         
+        
         System.out.println(slist[0].getsId()+ " "+ slist[0].getsName());
+       Sytsem.out.println("hello world");
         
        for (int i=0;i<slist.length;i++)
        {
