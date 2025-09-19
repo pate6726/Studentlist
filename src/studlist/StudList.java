@@ -8,7 +8,7 @@ package studlist;
 
 /**
  *
- * @author Megha Patel
+ * @author Jash Patel
  */
 public class StudList {
 
